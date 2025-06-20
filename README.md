@@ -2,7 +2,12 @@
 
 This repository includes a collection of optimization problems solved using **Gurobi** with Python. These models simulate realistic business decision-making scenarios based on a furniture factory use case.
 
-This is part of a learning project for the **Business Administration** course in the **Bachelor of Computer Science** program at **Vietnamese-German University (VGU)**, focusing on how to model and solve business optimization problems.
+---
+
+### 📚 Based On
+
+These examples are inspired by and follow the tutorial playlist:  
+🎥 [Gurobi Linear Programming Tutorials – YouTube](https://www.youtube.com/playlist?list=PLHiHZENG6W8BeAfJfZ3myo5dsSQjEV5pJ)
 
 ---
 
